@@ -1,5 +1,6 @@
 package lab.aikibo.search;
 
+import lab.aikibo.search.repository.FlightRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
